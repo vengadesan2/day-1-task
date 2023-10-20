@@ -1,0 +1,8 @@
+Write a blog about objects and its internal representation in Javascript
+*objects in Javascript,in most importnt data type and building blocksfor morden Javascript
+*it is the primitive data type(number, string,boolean,null,undifind,symoble) 
+objectsare more complex and each objet compination of the primitive  data typeas well as referance data type
+referance  data type ,variable that are assigned a referance value are given a referanceor pointer to that value ,
+pointer point the location in memory rhere are stored . the variable don't actually stored  the value
+javascript my be defind s unorderlist related of data primitive type from key : values pairs
+ key can be variable (or)function called proprties and method

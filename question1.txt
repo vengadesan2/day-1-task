@@ -1,0 +1,15 @@
+write a blog on Difference between HTTP1.1 vs HTTP2
+HTTP = hyprtext transfer protocol
+almost used in we application. more spcipically.  computer server used request and send information
+HTTP1<=
+the first creat the http for 1997 .
+through the several stegs of development its call for first version
+load resources  one ofter the other. so if one resoures cannot be load .it black the all the resoures behint it.
+syns method
+HTTP2<=
+THE new version creat for 2015.
+the second version all solve severl port of problem. and most faster and most efficiency.
+ its used single TCP Connection to sent multiple sreams of the data at once so thatno one resourses blocks any other  resoures
+ header compression
+ small files more quicky than larg ones to speed up wep perfomence for both of HTTP1&HTTP2
+ HTTP2 more advance copmressions method  hpack 
